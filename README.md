@@ -1,4 +1,4 @@
-<h1 align="left">Olá, eu sou Daniel!👨‍💻</h1>
+<h1 align="center">Olá, eu sou Daniel!👨‍💻</h1>
 
 ###
 
@@ -6,9 +6,7 @@
 
 ###
 
-<div align="center">
-  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWYzbDU0cWYwNzlmYmw2eHQwb2NlOW5hbm9xM2ZkZ2d0c2QwMnZiNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PZrjGkr334fXa/giphy.gif"  />
-</div>
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXgzc20wYTR2c2JpMnF3dmhtOGIzZmpnaHN3ODJvejFyMTZia280YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udK21RQeWtaGQ/giphy.gif"  />
 
 ###
 
@@ -60,12 +58,6 @@
 ###
 
 <p align="left">- Formação Complementar: <br>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎° Técnico em Hardware & Software Pela Trainee Cursos - (2019 - 2022) – Finalizado<br>‎ ‎ ‎ ‎</p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DanielAndLeinad/DanielAndLeinad/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -123,6 +115,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="70" />
   <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="gamemakerstudio logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNia3Vvd2Q1eHNhaGpjMmI5OWE5MjRjOXN1b2Y5N29jaHh3anU2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vKH4mU0p1leRjYRyjx/giphy.gif"  />
 </div>
 
 ###
