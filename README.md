@@ -8,7 +8,9 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXgzc20wYTR2c2JpMnF3dmhtOGIzZmpnaHN3ODJvejFyMTZia280YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udK21RQeWtaGQ/giphy.gif"  />
+<div align="center">
+  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXgzc20wYTR2c2JpMnF3dmhtOGIzZmpnaHN3ODJvejFyMTZia280YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udK21RQeWtaGQ/giphy.gif"  />
+</div>
 
 ###
 
@@ -18,16 +20,16 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marcos-daniel-245b94352/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="160" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="165" height="45" alt="linkedin logo"  />
   </a>
   <a href="marcosdaniel.indiedev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="160" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="165" height="45" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/daniel_d4c/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="160" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="165" height="45" alt="instagram logo"  />
   </a>
   <a href="https://x.com/LeinadAndDaniel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="160" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="165" height="45" alt="twitter logo"  />
   </a>
 </div>
 
