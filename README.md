@@ -1,8 +1,8 @@
-<h1 align="center"> >Hello, eu sou o Daniel! 👨‍💻</h1>
+<h1 align="center">Olá, eu sou Daniel!👨‍💻</h1>
 
 ###
 
-<p align="center">Curioso por natureza, apaixonado por tecnologia e sempre fuçando algum código por aí. Gosto de resolver problemas, aprender coisas novas e, claro, quebrar uns sistemas (mas no bom sentido! 😆). Atualmente, estudo e trabalho com desenvolvimento e suporte técnico, sempre em busca de desafios e projetos que me façam evoluir. 🚀</p>
+<p align="center">Sou um entusiasta de tecnologia e desenvolvimento de software 💻, sempre em busca de expandir meus conhecimentos e criar soluções inovadoras. Atualmente, estudo e trabalho para aplicar e ampliar minhas habilidades em desenvolvimento e suporte técnico, contribuindo com projetos que visam a excelência tecnológica 🚀.</p>
 
 ###
 
@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/marcos-daniel-245b94352/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="165" height="45" alt="linkedin logo"  />
   </a>
-  <a href="mailto:marcosdaniel.indiedev@gmail.com" target="_blank">
+  <a href="marcosdaniel.indiedev@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="165" height="45" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/daniel_d4c/" target="_blank">
@@ -35,54 +35,108 @@
 
 ###
 
-<h2 align="left">🚀 O que eu faço?</h2>
-
-<p align="left">- Desenvolvimento de Software e Web: Mexo com HTML, CSS, JavaScript e estudo outras linguagens como Python, Java e C++.<br><br>- Suporte Técnico: Resolvo pepinos tecnológicos, configuro sistemas e dou aquele help para quem precisa. 🛠️<br><br>- Resolução de Problemas: Gosto de desafios, seja debugando um código ou tentando entender o final de um anime mind-blowing. 🔍<br><br>- Aprendizado Contínuo: Sempre buscando novas tecnologias para testar (e quebrar no processo 😂). 📚<br><br>- Manutenção de Hardware: Se tiver um PC dando problema, pode chamar que eu tento dar um jeito! ⚙️</p>
+<h2 align="left">Habilidades e Competências 💾</h2>
 
 ###
 
-<h2 align="left">📚 Formação</h2>
-
-<p align="left">- 🎓 Engenharia de Software na Unopar (2024 - 2028) – Cursando</p>
-<p align="left">- 💻 Técnico em T.I com foco em Web – Faetec (2024 - 2025) – Cursando</p>
-<p align="left">- 🛠️ Técnico em Hardware & Software – Trainee Cursos (2019 - 2022) – Finalizado</p>
+<p align="left">- Desenvolvimento de Software e Web: Tenho experiência com HTML, CSS, JavaScript e estudo programação com Python, além de explorar outras linguagens e tecnologias como React Native e Java.<br><br>- Suporte Técnico: Atuo na triagem de chamados, instalação e configuração de sistemas, atendendo presencialmente e remotamente, sempre focado na resolução eficiente dos problemas dos clientes 🛠️.<br><br>- Análise e Resolução de Problemas: Possuo visão analítica para conferir dados e solucionar desafios tecnológicos 🔍.<br><br>- Aprendizado Contínuo: Sou curioso e dedicado a aprender novas ferramentas e explorar tecnologias inovadoras 📚.<br><br>- Multitarefas e Manutenção: Tenho destreza na montagem e manutenção de equipamentos e amplo conhecimento dos principais sistemas operacionais ⚙️.</p>
 
 ###
 
-<h2 align="left">💼 Experiência Profissional</h2>
-
-<h3 align="left">💻 Teleoperador de Suporte Técnico – EasyFibra (Três Rios, RJ) -- 02/2024 - Atual</h3>
-
-<p align="left">Aquele que salva o dia quando a internet resolve não colaborar. Trabalho com triagem de chamados, instalação e configuração de sistemas, e atendimento remoto e presencial. 📞💻</p>
+<h2 align="left">Formação Acadêmica 💾</h2>
 
 ###
 
-<h2 align="left">🏆 Certificações</h2>
-
-<p align="left">📊 Análise de Dados com Python - 40 Horas (Unopar)<br>🐍 Introdução à Linguagem Python - 15 Horas (Unopar)<br>🐍 Estruturas de Dados em Python - 10 Horas (Unopar)<br>📡 IoT e Programação de Sensores<br>🇬🇧 Inglês - Mais de 300 horas de formação<br>💼 Curso de Office - 40 horas</p>
+<p align="left">- Engenharia de Software: Desenvolvimento de Software na Universidade Unopar (2024 - 2028) – Cursando🎓</p>
 
 ###
 
-<h2 align="left">🛠️ Tecnologias que uso</h2>
+<p align="left">- Cursos Técnico em T.I com foco em programação WEB pela na Faetec (2024 - 2025) – Cursando🎓.</p>
+
+###
+
+<p align="left">- Formação Complementar: <br>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎° Técnico em Hardware & Software Pela Trainee Cursos - (2019 - 2022) – Finalizado<br>‎ ‎ ‎ ‎</p>
+
+###
+
+<h2 align="left">Experiência Profissional 📊</h2>
+
+###
+
+<h3 align="left">Teleoperador de Suporte Técnico – EasyFibra (Três Rios, RJ) -- 02/2024 - Atual</h3>
+
+###
+
+<p align="left">° Desde 02/2024, atuo na triagem de chamados e ordens de serviço, instalando e configurando sistemas e softwares via helpdesk, e prestando atendimento presencial e remoto, sempre com foco na resolução eficiente dos problemas dos clientes 📞🖥️.</p>
+
+###
+
+<h2 align="left">Certificações e Cursos Complementares 📝</h2>
+
+###
+
+<p align="left">° Análise de Dados com Python - 40 Horas (Unopar) 🐍.<br>° Introdução à Linguagem Python - 15 Horas (Unopar) 🐍.<br>° Estruturas de Dados em Python - 10 Horas (Unopar) 🐍.</p>
+
+###
+
+<p align="left">° Cursos de Inglês:  Mais de 300 horas de formação, desde o vocabulário essencial até níveis avançados 🇬🇧 (Unopar).</p>
+
+###
+
+<p align="left">° Certificações em IoT e Programação de Sensores: Desde a programação em Internet das Coisas (com Python) até redes de computadores 📡.</p>
+
+###
+
+<p align="left">° Curso de Office:  40 horas (SeteSetembro Cursos)💼.</p>
+
+###
+
+<h2 align="left">Ferramentas ⌨️</h2>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="gamemakerstudio logo"  />
+</div>
+
+###
+
+<h2 align="left">Linguagens de Programação ⌨️</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
+
+###
+
+<h2 align="left">Bibliotecas e Frameworks ⌨️</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+###
+
+<h2 align="left">Tecnologias para Estruturação e Estilização ⌨️</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="70" />
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="gamemakerstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
 ###
@@ -101,9 +155,17 @@
 
 ###
 
-<p align="left">Entre um código e outro, sempre dou um jeito de me perder em boas histórias. Seja nos dilemas filosóficos de Frankenstein, nas vibes insanas de Dorohedoro ou na melancolia de um álbum de shoegaze num dia chuvoso.<br><br>Tento ver a vida como um RPG: sempre evoluindo, enfrentando chefões difíceis e aproveitando os momentos tranquilos. Às vezes aparecem paredes dificeis de serem ultrapassdas, outras é só um dia pacífico que daa raiva. Mas o que importa é continuar evoluindo, explorando e descobrindo novos caminhos. 🚀🎶📖</p>
+<p align="left">Entre códigos e linhas de programação, sempre encontro tempo para me perder em boas histórias, seja em páginas amareladas, trilhas sonoras imersivas ou mundos digitais cheios de desafios. A arte e a criatividade sempre fizeram parte do meu caminho, seja na atmosfera densa de Dorohedoro, nos dilemas filosóficos de Frankenstein ou na melancolia de um bom álbum de shoegaze em um dia chuvoso.<br><br>Gosto de pensar que a vida, assim como os melhores RPGs, é uma jornada de evolução constante. Às vezes, encontramos desafios dignos da saga Souls, outras, momentos de simplicidade como uma tarde tranquila em Minecraft. Mas, independentemente do cenário, sigo sempre explorando, aprendendo e buscando significado em cada experiência.<br><br>O mundo é vasto, cheio de mistérios e possibilidades. E eu? Apenas mais um viajante nesse universo, pronto para a próxima grande aventura. 🚀🎶📖</p>
 
 ###
 
 <h3 align="center">-------------------------------------------------------------------------------------------------------------------------------</h3>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielAndLeinad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielAndLeinad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
