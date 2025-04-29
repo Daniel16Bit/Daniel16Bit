@@ -51,11 +51,11 @@
 
 ###
 
-<p align="left">- Cursos Técnico em T.I com foco em programação WEB pela na Faetec (2024 - 2025) – Cursando🎓.</p>
+<p align="left">- Curso Técnico em T.I pela Faetec (2024 - 2025) – Cursando🎓<br>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎° Foco em desenvolvimento geral: aplicações web, mobile e para desktop.</p>
 
 ###
 
-<p align="left">- Formação Complementar: <br>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎° Técnico em Hardware & Software Pela Trainee Cursos - (2019 - 2022) – Finalizado<br>‎ ‎ ‎ ‎</p>
+<p align="left">- Formação Complementar: <br>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎° Técnico em Hardware & Software pela Trainee Cursos - (2019 - 2022) – Finalizado<br>‎ ‎ ‎ ‎</p>
 
 ###
 
@@ -63,11 +63,15 @@
 
 ###
 
-<h3 align="left">Teleoperador de Suporte Técnico – EasyFibra (Três Rios, RJ) -- 02/2024 - Atual</h3>
+<h3 align="left">Profissional de T.I – Faculdade Suprema (Três Rios, RJ) -- 2025 - Atual</h3>
 
-###
+<p align="left">° Responsável pelo suporte técnico, manutenção de sistemas acadêmicos, infraestrutura e atendimento interno. Atuação direta na resolução de problemas técnicos, garantindo o bom funcionamento do ambiente digital da instituição 🎓🖥️.</p>
 
-<p align="left">° Desde 02/2024, atuo na triagem de chamados e ordens de serviço, instalando e configurando sistemas e softwares via helpdesk, e prestando atendimento presencial e remoto, sempre com foco na resolução eficiente dos problemas dos clientes 📞🖥️.</p>
+<br>
+
+<h3 align="left">Teleoperador de Suporte Técnico – EasyFibra (Três Rios, RJ) -- 02/2024 - 04/2025</h3>
+
+<p align="left">° Atuei na triagem de chamados e ordens de serviço, instalação e configuração de sistemas e softwares via helpdesk, com atendimento presencial e remoto 📞🖥️.</p>
 
 ###
 
@@ -79,7 +83,7 @@
 
 ###
 
-<p align="left">° Cursos de Inglês:  Mais de 300 horas de formação, desde o vocabulário essencial até níveis avançados 🇬🇧 (Unopar).</p>
+<p align="left">° Cursos de Inglês: Mais de 300 horas de formação, desde o vocabulário essencial até níveis avançados 🇬🇧 (Unopar).</p>
 
 ###
 
@@ -87,7 +91,7 @@
 
 ###
 
-<p align="left">° Curso de Office:  40 horas (SeteSetembro Cursos)💼.</p>
+<p align="left">° Curso de Office: 40 horas (SeteSetembro Cursos)💼.</p>
 
 ###
 
@@ -114,7 +118,7 @@
   <img width="150" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="150" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
 </div>
 
 ###
@@ -165,7 +169,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielAndLeinad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielAndLeinad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+  <img src="https://github-readme-stats
