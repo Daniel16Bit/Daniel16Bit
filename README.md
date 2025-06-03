@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Sou um entusiasta de tecnologia e desenvolvimento de software 💻, sempre em busca de expandir meus conhecimentos e criar soluções inovadoras. Atualmente, estudo e trabalho para aplicar e ampliar minhas habilidades em desenvolvimento e suporte técnico, contribuindo com projetos que visam a excelência tecnológica 🚀.</p>
+<p align="center">Sou um entusiasta de tecnologia e desenvolvimento de software 💻, sempre em busca de expandir meus conhecimentos e criar soluções inovadoras. Atualmente, estudo e trabalho para aplicar e ampliar minhas habilidades em desenvolvimento, contribuindo com projetos que visam a excelência tecnológica 🚀.</p>
 
 ###
 
