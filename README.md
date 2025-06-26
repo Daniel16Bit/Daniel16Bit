@@ -25,7 +25,7 @@
   <a href="marcosdaniel.indiedev@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="165" height="45" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/daniel_d4c/" target="_blank">
+  <a href="https://www.instagram.com/daniel8bit/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="165" height="45" alt="instagram logo"  />
   </a>
   <a href="https://x.com/LeinadAndDaniel" target="_blank">
