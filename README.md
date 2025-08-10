@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Sou alguém obcecado pela informática e programação, com foco em cibersegurança, desenvolvimento de jogos e mundos de fantasia. Amo Ler e amo ser T.I, por isso, meu objetivo final de vida é algum dia virar professor e passar o conhecimento que tenho para a futura geração.</p>
+<p align="center">Sou apaixonado por tecnologia e programação, com foco em desenvolvimento de software e soluções inovadoras. Tenho interesse constante em leitura e aprimoramento técnico, buscando expandir minhas habilidades e conhecimentos. Meu objetivo de longo prazo é atuar como Senior na área de tecnologia, contribuindo para a formação e inspiração de futuras gerações de profissionais..</p>
 
 ###
 
