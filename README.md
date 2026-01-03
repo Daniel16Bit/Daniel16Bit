@@ -1,7 +1,7 @@
 <!-- ===================== -->
 <!-- English Version -->
 <!-- ===================== -->
-## 🇺🇸 Description
+## 🇺🇸 
 <h1 align="left">Hi, I’m Daniel 👋</h1>
 
 <p align="left">
@@ -59,7 +59,7 @@ Studying networking, security fundamentals, and low-level API design
 <!-- ===================== -->
 <!-- Versão em Português -->
 <!-- ===================== -->
-## 🇧🇷 Descrição
+## 🇧🇷 
 <h1 align="left">Olá, eu sou o Daniel 👋</h1>
 
 <p align="left">
