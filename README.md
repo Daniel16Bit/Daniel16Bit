@@ -1,3 +1,7 @@
+<!-- ===================== -->
+<!-- English Version -->
+<!-- ===================== -->
+
 <h1 align="left">Hi, I’m Daniel 👋</h1>
 
 <p align="left">
@@ -43,6 +47,64 @@ Studying networking, security fundamentals, and low-level API design
 </p>
 
 <h2 align="left">Reach Me 📫</h2>
+
+<p align="left">
+🔗 GitHub: https://github.com/Daniel16Bit<br>
+🔗 LinkedIn: https://www.linkedin.com/in/marcos-daniel-245b94352/<br>
+✉️ Email: mdaniel.main@gmail.com
+</p>
+
+<hr>
+
+<!-- ===================== -->
+<!-- Versão em Português -->
+<!-- ===================== -->
+
+<h1 align="left">Olá, eu sou o Daniel 👋</h1>
+
+<p align="left">
+Estudante de Engenharia de Software | Sistemas de Baixo Nível | Desenvolvedor C<br>
+Focado em construir software eficiente e bem estruturado, com forte ênfase em
+<strong>qualidade de código</strong>, <strong>resolução de problemas</strong> e <strong>fundamentos de software</strong>.
+</p>
+
+<h2 align="left">Habilidades Principais</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+</div>
+
+<p align="left">
+<strong>Sistemas & Arquitetura:</strong> Programação de Baixo Nível, Gerenciamento de Memória, Redes
+</p>
+
+<h2 align="left">Ferramentas</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="GameMaker Studio" />
+</div>
+
+<h2 align="left">O Que Estou Fazendo Atualmente</h2>
+
+<p align="left">
+Desenvolvendo projetos que demonstram domínio profundo de conceitos de sistemas<br>
+Aprimorando qualidade de código, estrutura e documentação técnica<br>
+Estudando redes, fundamentos de segurança e design de APIs de baixo nível
+</p>
+
+<h2 align="left">Contato 📫</h2>
 
 <p align="left">
 🔗 GitHub: https://github.com/Daniel16Bit<br>
