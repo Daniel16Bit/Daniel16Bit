@@ -1,113 +1,122 @@
-<!-- ===================== -->
-<!-- English Version -->
-<!-- ===================== -->
-## 🇺🇸 
-<h1 align="left">Hi, I’m Daniel 👋</h1>
+# 🇺🇸 English
+
+```text
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+
+┌──(daniel㉿linux)-[~]
+└─$ whoami
+
+Daniel
+Software Engineering Student
+C Developer
+Systems Programming Enthusiast
+Cybersecurity Student
+
+┌──(daniel㉿linux)-[~]
+└─$ cat about.txt
+
+I enjoy building software from the ground up to understand
+how systems work internally, from memory management and
+operating systems to networking protocols and low-level
+development.
+```
+
+##  Technologies
+
+```text
+┌──(daniel㉿linux)-[~]
+└─$ ls technologies/
+
+C
+C++
+Java
+Python
+SQLite
+Git
+Linux
+```
+
+##  Areas of Interest
+
+```text
+┌──(daniel㉿linux)-[~]
+└─$ tree interests/
+
+interests
+├── Systems Programming
+├── Cybersecurity
+├── Computer Networks
+├── Operating Systems
+├── Software Architecture
+└── Low-Level Development
+```
+
+##  Featured Project
+
+```text
+┌──(daniel㉿linux)-[~/projects]
+└─$ project-info c-task-manager-api
+
+Name........: c-task-manager-api
+Language....: C
+Database....: SQLite
+Interface...: CLI
+API.........: REST
+Networking..: Raw HTTP Sockets
+
+Description:
+Task management system developed to deepen
+knowledge of systems programming, networking,
+backend development and software architecture.
+```
+
+##  Currently Learning
+
+```text
+┌──(daniel㉿linux)-[~/studies]
+└─$ cat roadmap.txt
+
+[+] Linux Internals
+[+] Socket Programming
+[+] Computer Networks
+[+] Secure Software Development
+[+] API Design
+[+] Cybersecurity Fundamentals
+```
+
+##  GitHub Statistics
+
+```text
+┌──(daniel㉿linux)-[~]
+└─$ git stats
+```
 
 <p align="left">
-Software Engineering Student | Low-Level Systems | C Developer<br>
-Focused on building efficient, well-structured software with strong emphasis on
-<strong>code quality</strong>, <strong>problem solving</strong>, and <strong>software fundamentals</strong>.
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel16Bit&show_icons=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel16Bit&layout=compact&hide_border=true" />
 </p>
 
-<h2 align="left">Core Skills</h2>
+##  Contact
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-</div>
+```text
+┌──(daniel㉿linux)-[~]
+└─$ cat contact.txt
 
-<p align="left">
-<strong>Systems & Architecture:</strong> Low-Level Programming, Memory Management, Networking
-</p>
+GitHub   : github.com/Daniel16Bit
+LinkedIn : linkedin.com/in/mdaniel.main
+Email    : mdaniel.main@gmail.com
+```
 
-<h2 align="left">Tools</h2>
+```text
+┌──(daniel㉿linux)-[~]
+└─$ exit
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="GameMaker Studio" />
-</div>
-
-<h2 align="left">What I’m Doing Now</h2>
-
-<p align="left">
-Developing projects that demonstrate a deep understanding of system-level concepts<br>
-Refining code quality, structure, and technical documentation<br>
-Studying networking, security fundamentals, and low-level API design
-</p>
-
-<h2 align="left">Reach Me 📫</h2>
-
-<p align="left">
-🔗 GitHub: https://github.com/Daniel16Bit<br>
-🔗 LinkedIn: https://www.linkedin.com/in/marcos-daniel-245b94352/<br>
-✉️ Email: mdaniel.main@gmail.com
-</p>
-
-<hr>
-
-<!-- ===================== -->
-<!-- Versão em Português -->
-<!-- ===================== -->
-## 🇧🇷 
-<h1 align="left">Olá, eu sou o Daniel 👋</h1>
-
-<p align="left">
-Estudante de Engenharia de Software | Sistemas de Baixo Nível | Desenvolvedor C<br>
-Focado em construir software eficiente e bem estruturado, com forte ênfase em
-<strong>qualidade de código</strong>, <strong>resolução de problemas</strong> e <strong>fundamentos de software</strong>.
-</p>
-
-<h2 align="left">Habilidades Principais</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-</div>
-
-<p align="left">
-<strong>Sistemas & Arquitetura:</strong> Programação de Baixo Nível, Gerenciamento de Memória, Redes
-</p>
-
-<h2 align="left">Ferramentas</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="GameMaker Studio" />
-</div>
-
-<h2 align="left">O Que Estou Fazendo Atualmente</h2>
-
-<p align="left">
-Desenvolvendo projetos que demonstram domínio profundo de conceitos de sistemas<br>
-Aprimorando qualidade de código, estrutura e documentação técnica<br>
-Estudando redes, fundamentos de segurança e design de APIs de baixo nível
-</p>
-
-<h2 align="left">Contato 📫</h2>
-
-<p align="left">
-🔗 GitHub: https://github.com/Daniel16Bit<br>
-🔗 LinkedIn: https://www.linkedin.com/in/marcos-daniel-245b94352/<br>
-✉️ Email: mdaniel.main@gmail.com
-</p>
+Session terminated.
+Thanks for visiting.
+```
