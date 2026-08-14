@@ -19,14 +19,10 @@
 <br/>
 
 <!-- Stats + Top languages lado a lado -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Daniel16Bit&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=38BDF8&icon_color=22D3EE&text_color=60A5FA&bg_color=060A14&card_width=500" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Daniel16Bit&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0369A1&icon_color=0E7490&text_color=2563EB&bg_color=FFFFFF&card_width=500" alt="Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel16Bit&layout=compact&langs_count=8&hide_border=true&title_color=38BDF8&text_color=60A5FA&bg_color=060A14&card_width=500" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel16Bit&layout=compact&langs_count=8&hide_border=true&title_color=0369A1&text_color=2563EB&bg_color=FFFFFF&card_width=500" alt="Top languages" />
-</picture>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Daniel16Bit&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=38BDF8&icon_color=22D3EE&text_color=60A5FA&bg_color=060A14&card_width=500#gh-dark-mode-only" alt="Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Daniel16Bit&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0369A1&icon_color=0E7490&text_color=2563EB&bg_color=FFFFFF&card_width=500#gh-light-mode-only" alt="Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel16Bit&layout=compact&langs_count=8&hide_border=true&title_color=38BDF8&text_color=60A5FA&bg_color=060A14&card_width=500#gh-dark-mode-only" alt="Top languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel16Bit&layout=compact&langs_count=8&hide_border=true&title_color=0369A1&text_color=2563EB&bg_color=FFFFFF&card_width=500#gh-light-mode-only" alt="Top languages" />
 
 </div>
 

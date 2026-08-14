@@ -7,24 +7,24 @@
     "tags": ["Security", "WebSec", "Writeups"]
   },
   {
-    "name": "Phantom C2",
-    "repo": "Daniel16Bit/phantom-c2",
+    "name": "Plano Laboratorio",
+    "repo": "Daniel16Bit/Plano-laborat-rio---ciberseguran-a",
     "logo": "",
-    "description": "Framework modular de simulacao Red Team (C/C++/Python)",
-    "tags": ["C", "Python", "RedTeam"]
+    "description": "Planejamento e documentacao de um laboratorio de ciberseguranca",
+    "tags": ["Homelab", "BlueRed", "Docs"]
+  },
+  {
+    "name": "C Task Manager API",
+    "repo": "Daniel16Bit/c-task-manager-api",
+    "logo": "",
+    "description": "Gerenciador de tarefas em C: CLI, SQLite e API REST via sockets HTTP",
+    "tags": ["C", "SQLite", "REST"]
   },
   {
     "name": "Ransomware Analyzer",
-    "repo": "Daniel16Bit/ransomware-behavior-analyzer",
+    "repo": "Daniel16Bit/Ransomware-Behavior-Analyzer",
     "logo": "",
-    "description": "Deteccao comportamental via inotify + /proc e analise de entropia",
+    "description": "Deteccao comportamental de ransomware em tempo real (Python/C, Linux)",
     "tags": ["Python", "C", "BlueTeam"]
-  },
-  {
-    "name": "C REST API",
-    "repo": "Daniel16Bit/c-rest-api",
-    "logo": "",
-    "description": "API REST em C puro com Winsock, SQLite e parsing HTTP manual",
-    "tags": ["C", "Winsock", "SQLite"]
   }
 ]
