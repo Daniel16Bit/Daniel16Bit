@@ -11,24 +11,24 @@ from datetime import datetime, timezone
 
 THEMES = {
     "dark": {
-        "BG": "#060A14", "PANEL": "#0A1120", "PANEL_BAR": "#070C18",
-        "GREEN": "#38BDF8", "CYAN": "#22D3EE", "VIOLET": "#818CF8",
-        "VIOLET2": "#1E3A8A", "EMERALD": "#38BDF8", "TEXT": "#EFF6FF",
-        "MUTED": "#60A5FA", "DIM": "#1E3A5F",
-        "STROKE": "rgba(56,189,248,0.28)", "STROKE_HI": "rgba(56,189,248,0.55)",
-        "STROKE_LO": "rgba(56,189,248,0.20)", "BARLINE": "rgba(56,189,248,0.10)",
-        "RING_BG": "rgba(96,165,250,0.15)", "PILL_BG": "rgba(56,189,248,0.12)",
-        "PILL_STROKE": "rgba(56,189,248,0.4)", "MONO_TX": "#EFF6FF",
+        "BG": "#0B0614", "PANEL": "#140A20", "PANEL_BAR": "#0E0718",
+        "GREEN": "#A855F7", "CYAN": "#C084FC", "VIOLET": "#E879F9",
+        "VIOLET2": "#5B21B6", "EMERALD": "#A855F7", "TEXT": "#F5EFFF",
+        "MUTED": "#A78BFA", "DIM": "#3B2A5F",
+        "STROKE": "rgba(168,85,247,0.28)", "STROKE_HI": "rgba(168,85,247,0.55)",
+        "STROKE_LO": "rgba(168,85,247,0.20)", "BARLINE": "rgba(168,85,247,0.10)",
+        "RING_BG": "rgba(167,139,250,0.15)", "PILL_BG": "rgba(168,85,247,0.12)",
+        "PILL_STROKE": "rgba(168,85,247,0.4)", "MONO_TX": "#F5EFFF",
     },
     "light": {
-        "BG": "#F1F5FB", "PANEL": "#FFFFFF", "PANEL_BAR": "#E2EAF5",
-        "GREEN": "#0369A1", "CYAN": "#0E7490", "VIOLET": "#4F46E5",
-        "VIOLET2": "#1E3A8A", "EMERALD": "#0369A1", "TEXT": "#0C1B3A",
-        "MUTED": "#2563EB", "DIM": "#94A8C8",
-        "STROKE": "rgba(3,105,161,0.30)", "STROKE_HI": "rgba(3,105,161,0.55)",
-        "STROKE_LO": "rgba(3,105,161,0.20)", "BARLINE": "rgba(3,105,161,0.10)",
-        "RING_BG": "rgba(100,116,139,0.20)", "PILL_BG": "rgba(3,105,161,0.10)",
-        "PILL_STROKE": "rgba(3,105,161,0.4)", "MONO_TX": "#FFFFFF",
+        "BG": "#F7F3FC", "PANEL": "#FFFFFF", "PANEL_BAR": "#EDE4F7",
+        "GREEN": "#7C3AED", "CYAN": "#9333EA", "VIOLET": "#C026D3",
+        "VIOLET2": "#5B21B6", "EMERALD": "#7C3AED", "TEXT": "#2E1065",
+        "MUTED": "#7C3AED", "DIM": "#B69DD8",
+        "STROKE": "rgba(124,58,237,0.30)", "STROKE_HI": "rgba(124,58,237,0.55)",
+        "STROKE_LO": "rgba(124,58,237,0.20)", "BARLINE": "rgba(124,58,237,0.10)",
+        "RING_BG": "rgba(150,116,180,0.20)", "PILL_BG": "rgba(124,58,237,0.10)",
+        "PILL_STROKE": "rgba(124,58,237,0.4)", "MONO_TX": "#FFFFFF",
     },
 }
 
@@ -42,7 +42,7 @@ def set_theme(name):
     g = globals()
     for k, v in t.items():
         g[k] = v
-    g["DONUT_COLORS"] = [t["GREEN"], t["CYAN"], t["VIOLET"], "#FBBF24", "#60A5FA", "#1E3A5F"]
+    g["DONUT_COLORS"] = [t["GREEN"], t["CYAN"], t["VIOLET"], "#FBBF24", "#A78BFA", "#3B2A5F"]
 
 
 set_theme("dark")
