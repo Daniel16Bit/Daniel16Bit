@@ -1,92 +1,73 @@
-```text
-        .--.
-       |o_o |
-       |:_/ |
-      //   \ \
-     (|     | )
-    /'\_   _/`\
-    \___)=(___/
-┌──(daniel㉿linux)-[~]
-└─$ whoami
-Marcos Daniel Figueredo Ferrari
-Systems & Security Engineer in the making
-I build software from the ground up — and take it apart to find where it breaks.
+<!-- ===== BANNER TERMINAL (troca dark/light automaticamente) ===== -->
 
-┌──(daniel㉿linux)-[~]
-└─$ cat about.txt
-Low-level developer (C/C++) and offensive security practitioner.
-I write manual HTTP servers over raw sockets, build behavioral
-malware detectors, and design C2 frameworks — because understanding
-a system means owning both how it runs and how it falls.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daniel16Bit/Daniel16Bit/main/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daniel16Bit/Daniel16Bit/main/banner-light.svg">
+  <img alt="Marcos Daniel Ferrari" src="https://raw.githubusercontent.com/Daniel16Bit/Daniel16Bit/main/banner-dark.svg">
+</picture>
 
-Systems Development Intern @ LAB Assessoria (ERP, SQL/Firebird).
-Red Team specialization — Hackers do Bem (RNP/SENAI-SP, 3rd cohort).
-Building toward PNPT.
-```
+<!-- ===== GITHUB STATS ===== -->
 
-```text
-┌──(daniel㉿linux)-[~]
-└─$ ls -la stack/
-drwxr-xr-x  offensive/   Burp Suite · Metasploit · BloodHound · Hydra · Hashcat
-drwxr-xr-x  defensive/   Wazuh SIEM · Suricata IDS · pfSense
-drwxr-xr-x  languages/   C · C++ · Python · Java · SQL
-drwxr-xr-x  systems/     Linux · Docker · Winsock · Active Directory
-drwxr-xr-x  data/        SQLite · Firebird
-```
+<div align="center">
 
-```text
-┌──(daniel㉿linux)-[~/lab]
-└─$ cat homelab.txt
-Purple Team homelab — full attack/defense cycle:
-  [ATTACK]   Metasploit · BloodHound · Hashcat (RTX 4060)
-  [DEFENSE]  Wazuh SIEM · Suricata IDS · pfSense
-  [TARGETS]  AD on Windows Server 2019 · Metasploitable3
-             DVWA + Juice Shop (Docker)
-Every finding gets documented. Standardized markdown, CVSS 3.1 scoring.
-```
+<!-- Streak -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Daniel16Bit&hide_border=true&background=060A14&stroke=38BDF8&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8&sideLabels=60A5FA&currStreakNum=EFF6FF&sideNums=EFF6FF&dates=1E3A5F&titleColor=38BDF8&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Daniel16Bit&hide_border=true&background=FFFFFF&stroke=0369A1&ring=0369A1&fire=0E7490&currStreakLabel=0369A1&sideLabels=2563EB&currStreakNum=0C1B3A&sideNums=0C1B3A&dates=94A8C8&titleColor=0369A1&card_width=1180" alt="Streak" />
+</picture>
 
-```text
-┌──(daniel㉿linux)-[~/projects]
-└─$ project-info --featured
+<br/>
 
-┌─ ransomware-behavior-analyzer ──────────────────────────┐
-│ Stack ....: C + Python (ctypes) on Linux                │
-│ Detection : inotify-based behavioral monitoring         │
-│ Method ...: Shannon entropy analysis, no root required  │
-│ Why ......: Catch ransomware by what it DOES, not sigs  │
-└─────────────────────────────────────────────────────────┘
+<!-- Stats + Top languages lado a lado -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Daniel16Bit&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=38BDF8&icon_color=22D3EE&text_color=60A5FA&bg_color=060A14&card_width=500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Daniel16Bit&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0369A1&icon_color=0E7490&text_color=2563EB&bg_color=FFFFFF&card_width=500" alt="Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel16Bit&layout=compact&langs_count=8&hide_border=true&title_color=38BDF8&text_color=60A5FA&bg_color=060A14&card_width=500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel16Bit&layout=compact&langs_count=8&hide_border=true&title_color=0369A1&text_color=2563EB&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+</picture>
 
-┌─ phantom-c2 ────────────────────────────────────────────┐
-│ Stack ....: C/C++ agent + Python backend                │
-│ Type .....: Modular Red Team simulation framework       │
-│ Design ...: 8-phase operational roadmap                 │
-│ Why ......: Understand adversary tooling by building it │
-└─────────────────────────────────────────────────────────┘
+</div>
 
-┌─ c-task-manager-api ────────────────────────────────────┐
-│ Stack ....: C + SQLite, zero frameworks                 │
-│ Network ..: REST over raw HTTP sockets (Winsock)        │
-│ Why ......: Backend & networking down to the syscall    │
-└─────────────────────────────────────────────────────────┘
-```
+<!-- ===== SNAKE ===== -->
 
-```text
-┌──(daniel㉿linux)-[~]
-└─$ git log --oneline --stat
-```
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel16Bit&show_icons=true&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel16Bit&layout=compact&hide_border=true" />
-</p>
+<div align="center">
 
-```text
-┌──(daniel㉿linux)-[~]
-└─$ cat contact.txt
-GitHub   : github.com/Daniel16Bit
-LinkedIn : linkedin.com/in/mdaniel-main
-Email    : mdaniel.main@gmail.com
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daniel16Bit/Daniel16Bit/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daniel16Bit/Daniel16Bit/output/snake-light.svg" />
+  <img alt="Snake" src="https://raw.githubusercontent.com/Daniel16Bit/Daniel16Bit/output/snake-dark.svg" />
+</picture>
 
-┌──(daniel㉿linux)-[~]
-└─$ sudo ./hire.sh
-[+] Open to Red Team / SOC / Systems roles. Let's talk.
-```
+</div>
+
+<br/>
+
+<!-- ===== PAINEL DE PROJETOS ===== -->
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Daniel16Bit/Daniel16Bit/projects/projects.svg" alt="Projects" />
+</div>
+
+<!-- ===== BADGES SOCIAIS ===== -->
+<br/>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mdaniel-main">
+  <img src="https://img.shields.io/badge/LinkedIn-060A14?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=060A14" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Daniel16Bit">
+  <img src="https://img.shields.io/badge/GitHub-060A14?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=060A14" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/daniel8bit/">
+  <img src="https://img.shields.io/badge/Instagram-060A14?style=for-the-badge&logo=instagram&logoColor=22D3EE&labelColor=060A14" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:mdaniel.main@gmail.com">
+  <img src="https://img.shields.io/badge/Email-060A14?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=060A14" alt="Email" />
+</a>
+
+</div>

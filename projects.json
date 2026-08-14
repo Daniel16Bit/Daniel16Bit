@@ -1,0 +1,30 @@
+[
+  {
+    "name": "PortSwigger Academy",
+    "repo": "Daniel16Bit/portswigger-web-security-academy",
+    "logo": "",
+    "description": "Write-ups bilingues (EN/PT-BR) dos labs da Web Security Academy",
+    "tags": ["Security", "WebSec", "Writeups"]
+  },
+  {
+    "name": "Phantom C2",
+    "repo": "Daniel16Bit/phantom-c2",
+    "logo": "",
+    "description": "Framework modular de simulacao Red Team (C/C++/Python)",
+    "tags": ["C", "Python", "RedTeam"]
+  },
+  {
+    "name": "Ransomware Analyzer",
+    "repo": "Daniel16Bit/ransomware-behavior-analyzer",
+    "logo": "",
+    "description": "Deteccao comportamental via inotify + /proc e analise de entropia",
+    "tags": ["Python", "C", "BlueTeam"]
+  },
+  {
+    "name": "C REST API",
+    "repo": "Daniel16Bit/c-rest-api",
+    "logo": "",
+    "description": "API REST em C puro com Winsock, SQLite e parsing HTTP manual",
+    "tags": ["C", "Winsock", "SQLite"]
+  }
+]
