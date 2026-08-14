@@ -16,14 +16,6 @@
   <img width="100%" src="https://streak-stats.demolab.com/?user=Daniel16Bit&hide_border=true&background=FFFFFF&stroke=7C3AED&ring=7C3AED&fire=9333EA&currStreakLabel=7C3AED&sideLabels=7C3AED&currStreakNum=2E1065&sideNums=2E1065&dates=B69DD8&titleColor=7C3AED&card_width=1180" alt="Streak" />
 </picture>
 
-<br/>
-
-<!-- Stats + Top languages lado a lado -->
-<a href="https://github.com/Daniel16Bit">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Daniel16Bit&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=A855F7&icon_color=C084FC&text_color=A78BFA&bg_color=0B0614&card_width=495" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel16Bit&layout=compact&langs_count=8&hide_border=true&title_color=A855F7&text_color=A78BFA&bg_color=0B0614&card_width=495" alt="Top Languages" />
-</a>
-
 </div>
 
 <!-- ===== SNAKE ===== -->
